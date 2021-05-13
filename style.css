@@ -1,0 +1,15 @@
+header{
+    font-family: 'Permanent Marker', cursive;
+    /* font-size:50px; */
+    /* font-size: 72px;
+    background: -webkit-linear-gradient(rgb(211, 35, 35),#fff, rgb(44, 59, 109));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; */
+
+    font-size: 40px;
+    font-weight: 400;
+    background: -webkit-linear-gradient(10deg, #ff1201,rgb(51, 99, 138), #23136d 25%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+}
